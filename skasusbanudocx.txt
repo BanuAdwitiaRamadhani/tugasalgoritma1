@@ -1,0 +1,13 @@
+Nama	: Banu Adwitia R
+NIm	:23090004
+Kelas	:2c
+STUDI KASUS 
+Manajement daftar tugas:
+> 	Permasalahan
+Sebuah pusat perbelanjaan ingin meningkatkan pengalaman pengunjungnya dengan menyediakan 
+informasi real-time tentang ketersediaan tempat parkir. Mereka ingin membangun sistem sederhana 
+yang dapat memberi tahu pengunjung apakah parkiran penuh atau masih ada slot kosong yang 
+tersedia sebelum mereka tiba di lokasi.
+> 	Solusi
+Membuat tempat slot parkir kendaraan dalam jumlah yang memungkinkan dan aman untuk dibuat 
+sebagai tempat parkir kendaraan
